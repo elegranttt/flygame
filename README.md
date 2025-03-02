@@ -20,7 +20,7 @@ Install pip with your distro's package manager. For example (Ubuntu): `sudo apt 
 Then run: `pip install pygame`.
 **If pip isn't working, you might be able to install the `python-pygame` package with your package manager.**
 # Play
-Download the ZIP file by clicking "<> Code" at the top of the screen, then "Download ZIP". After that, extract the file and `cd` into the directory. For example, if the ZIP file was in your downloads: 
+Download the ZIP file by clicking "Releases" and download the latest "Flygame.zip". After that, extract the file and `cd` into the directory. For example, if the ZIP file was in your downloads: 
 ```
 cd Downloads/Flygame
 ```
