@@ -19,3 +19,5 @@ Install pip: `python -m ensurepip --upgrade`. Then: `pip install pygame`.
 Install pip with your distro's package manager. For example (Ubuntu): `sudo apt install python-pip` or `sudo pacman -S python-pip` for Arch, or `sudo dnf install python-pip` for Fedora.
 Then run: `pip install pygame`.
 **If pip isn't working, you might be able to install the `python-pygame` package with your package manager.**
+# Play
+Download the ZIP file by clicking "Code </>" at the top of the screen, then "Download ZIP".
